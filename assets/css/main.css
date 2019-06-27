@@ -3222,7 +3222,7 @@ body.is-preload .spotlight.onload-image-fade-in .image img {
   overflow-x: hidden;
   text-align: left; }
   .spotlight.style1 .content {
-    padding: 7rem 7rem 5rem 7rem ;
+    padding: 5rem 5rem 3rem 5rem ;
     -moz-align-self: center;
     -webkit-align-self: center;
     -ms-align-self: center;
@@ -3235,7 +3235,7 @@ body.is-preload .spotlight.onload-image-fade-in .image img {
     -webkit-flex-shrink: 1;
     -ms-flex-shrink: 1;
     flex-shrink: 1;
-    width: 65%;
+    width: 55%;
     max-width: 64rem;
     margin: 0 auto; }
   .spotlight.style1 .image {
@@ -3247,7 +3247,7 @@ body.is-preload .spotlight.onload-image-fade-in .image img {
     -webkit-flex-shrink: 0;
     -ms-flex-shrink: 0;
     flex-shrink: 0;
-    width: 35%;
+    width: 45%;
     min-width: 25rem;
     border-radius: 0; }
     .spotlight.style1 .image img {
