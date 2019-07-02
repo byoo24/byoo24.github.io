@@ -238,7 +238,7 @@
 		text-align: left;
 
 		.content {
-			@include padding(_size(padding, small), _size(padding, small));
+			@include padding(_size(padding, xlarge), _size(padding, xlarge));
 			@include vendor('align-self', 'center');
 			@include vendor('flex-grow', '1');
 			@include vendor('flex-shrink', '1');
