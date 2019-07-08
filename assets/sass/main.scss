@@ -721,6 +721,12 @@
 
 /* Actions */
 
+	ul.gray {
+		font-size: 0.875em; 
+		font-style: italic;
+		color: #aaa;
+	}
+
 	ul.actions {
 		@include vendor('display', 'flex');
 		cursor: default;
